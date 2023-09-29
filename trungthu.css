@@ -69,11 +69,10 @@ body{
     }
 }
 .title{
-    color:white;
+    color: aliceblue;
     font-size: 30px;
-
 }
 .message{
-    color:white;
-    font-size: 30px;
+    color: white;
+    font-size: 20px;
 }
