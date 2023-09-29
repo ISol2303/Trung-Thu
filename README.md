@@ -1,2 +1,0 @@
-# Trung-Thu
-Trung Thu
